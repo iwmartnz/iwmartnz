@@ -8,4 +8,4 @@ I'm a web developer with experience building modern and accesible user interface
 
 *   🌍  I'm based in Tela, Honduras
 *   ✉️  You can contact me at [iwmartnz@gmail.com](mailto:iwmartnz@gmail.com)
-*   🧠  I'm learning Backend Development
+*   🧠  I'm learning Mobile Development using React Native and Swift
