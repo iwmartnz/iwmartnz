@@ -6,7 +6,7 @@
 Detail-oriented, and self-driven front-end developer with experience building user-facing applications. With a passion for both personal growth and for software development, I recently finished a professional [Front-End Developer certification](https://www.credly.com/badges/3e68011e-13a1-428d-92a0-83ad7941e15f/public_url) issued by Meta and Coursera to learn new languages while sharpening existing skills.
 
 * 🌍  I'm based in Tela, Honduras
-* 🧠 Currently learning mobile development
+* 🧠 Currently learning backend development
 * 🤔 I'm actively looking for a junior front-end developer position.
 * 📫 You can reach me at [iwmartnz@gmail.com](mailto:iwmartnz@gmail.com)
 
