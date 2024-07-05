@@ -3,8 +3,6 @@
 
 
 ## 🚀 About Me
-Detail-oriented, and self-driven front-end developer with experience building user-facing applications. With a passion for both personal growth and for software development, I recently finished a professional [Front-End Developer certification](https://www.credly.com/badges/3e68011e-13a1-428d-92a0-83ad7941e15f/public_url) issued by Meta and Coursera to learn new languages while sharpening existing skills.
-
 [Full-Stack Software Engineer](https://www.credly.com/badges/64d3a7c6-7289-4e96-9a37-92cb7c3f1da8) with expertise in front-end and back-end technologies. Proficient in HTML, CSS, and JavaScript for crafting responsive and interactive user interfaces. Experienced in using React for building dynamic web applications. Skilled in back-end programming with Javascript and Node.js, and adept at designing and managing databases using SQL technologies. Capable of developing and consuming RESTful APIs, ensuring robust security practices, and deploying applications on cloud platforms. Familiar with DevOps practices, including CI/CD pipelines. Committed to delivering high-quality, user-centered web solutions.
 
 * 🌍  I'm based in Tela, Honduras
