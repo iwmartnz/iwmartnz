@@ -24,8 +24,8 @@ Some of my most recent projects:
 * 💻 https://github.com/iwmartnz/game-hub/
 * 🚀  https://game-hub-iwmartnz.vercel.app/
 #### Niche Restaurant
-* 💻 https://github.com/iwmartnz/nique-restaurant
-* 🚀  https://nique-restaurant.vercel.app/menu
+* 💻 https://github.com/iwmartnz/nique
+* 🚀  https://nique-iwmartnz.vercel.app/
 #### Todo app
 * 💻 https://github.com/iwmartnz/to-do
 * 🚀  https://to-do-iwmartnz.vercel.app/
