@@ -7,8 +7,6 @@
 
 * 🌍  I'm based in Tela, Honduras
 * 🧠 Currently learning backend development
-* 🤔 I'm actively looking for a junior full-stack developer position.
-* 📫 You can reach me at [iwmartnz@gmail.com](mailto:iwmartnz@gmail.com)
 
 
 
