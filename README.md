@@ -4,7 +4,7 @@ Full-Stack Developer & aspiring Design Engineer based in Honduras 🇭🇳
 Open to remote opportunities worldwide.
 
 I build production-grade web applications end-to-end — from Figma to deployment.
-Currently working at [Mentulabs](https://mentulabs.com) and available for freelance projects.
+Currently working at [Mentulabs](https://mentulabs.com).
 
 ---
 
