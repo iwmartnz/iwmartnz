@@ -1,6 +1,6 @@
 # Hey, I'm Israel 👋
 
-Full-Stack Developer & aspiring Design Engineer based in Honduras 🇭🇳
+Full-Stack Developer based in Honduras 🇭🇳
 Open to remote opportunities worldwide.
 
 I build production-grade web applications end-to-end — from Figma to deployment.
